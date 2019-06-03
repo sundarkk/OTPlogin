@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "821909082575",
+    "firebase_url": "https://otplogin-6814e.firebaseio.com",
+    "project_id": "otplogin-6814e",
+    "storage_bucket": "otplogin-6814e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821909082575:android:f410aa695da7636b",
+        "android_client_info": {
+          "package_name": "sundarchaupal.otplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821909082575-ueoegbav5a8l6pvqosomrl9ie5f91nc3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sundarchaupal.otplogin",
+            "certificate_hash": "cf08e9c80c4797a07ad89be2084f43a6edd2804c"
+          }
+        },
+        {
+          "client_id": "821909082575-gp8cnko3pktng4q64mrg67sk48hijmdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChjzUYvyMuurzHohNPTa3Sw6LvNKgUq9I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821909082575-gp8cnko3pktng4q64mrg67sk48hijmdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
